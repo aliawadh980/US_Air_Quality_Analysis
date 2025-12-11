@@ -1,0 +1,8 @@
+"CBSA Code","Date","AQI","Category","Defining Parameter","Number of Sites Reporting"
+10100,2022-06-01,62,Moderate,Ozone,1
+10100,2022-07-01,65,Moderate,Ozone,1
+10100,2022-08-01,63,Moderate,Ozone,1
+10100,2022-09-01,59,Moderate,Ozone,1
+10100,2022-10-01,56,Moderate,PM2.5,1
+10100,2022-11-01,53,Good,PM2.5,1
+10100,2022-12-01,51,Good,PM2.5,1
