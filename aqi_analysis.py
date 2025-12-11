@@ -101,7 +101,7 @@ def add_realtime_data(lookup):
     print("\nPart 2: Adding real-time data from AirNow...")
     
     # === CHOOSE MODE ===
-    MODE = "full"  # Change to "test" for a small sample
+    MODE = "test"  # Change to "test" for a small sample
     if MODE == "test":
         cbsa_list = [10100, 10140]  # Aberdeen, SD and WA
         print(f"TEST MODE: Fetching {len(cbsa_list)} CBSAs")
